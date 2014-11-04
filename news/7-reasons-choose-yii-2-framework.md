@@ -1,7 +1,7 @@
 > [原文地址：www.sitepoint.com/7-reasons-choose-yii-2-framework](http://www.sitepoint.com/7-reasons-choose-yii-2-framework/)  
 原作者：Matthew Beaumont（马修·博蒙特）主翻译：@qiansen1386 (东方孤思子) 校对：尚未校对 发布自：2014年10月13
 
-> 特别提醒：文中出现的全部链接均为原文链接，并未提供中文链接。如有需要可以自己找找大多数都有全世界的华人志愿者提供的汉化版本。如有特别需要，也可以给我们[提交翻译请求，不过最好是本身带 Markdown 格式的文件](https://github.com/yii2-chinesization/yii2-zh-cn/issues)。
+> 特别提醒：文中 Yii 文档之外的外部链接绝大多数为原文链接，并未提供中文链接。如有需要可以自己找找大多数都有全世界的华人志愿者提供的汉化版本。如有特别需要，也可以给我们[提交翻译请求，不过最好是本身带 Markdown 格式的文件](https://github.com/yii2-chinesization/yii2-zh-cn/issues)。
 
 选择易兔的 7 大理由
 ================
